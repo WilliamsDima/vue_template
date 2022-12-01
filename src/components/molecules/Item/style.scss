@@ -1,0 +1,13 @@
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    border: 1px solid #000;
+    width: 40%;
+    margin-top: 1rem;
+  
+    button {
+      color: red;
+    }
+  }
