@@ -1,4 +1,4 @@
-# receipt_scanner
+# vue_template
 
 ## Project setup
 ```
